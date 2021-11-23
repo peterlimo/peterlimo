@@ -4,8 +4,9 @@
 I am 22 years of age,  Currently working at HR DIGITAL CONSULTING LTD as a software developer.
 MY SPECIALIZATION
 --Android app development - Java,Kotlin,Flutter.
---Web development --Html,css,javascript
+--Web development --Html,css,javascript.
 --System development --Laravel, php.
+--Customer support.
 <!---
 peterlimo/peterlimo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
