@@ -3,7 +3,7 @@
 - 📫 How to reach me kiproplimo8@gmail.com / 0741734820
 I am 22 years of age,  Currently working at HR DIGITAL CONSULTING LTD as a software developer.
 MY SPECIALIZATION
---Android app development - Java,Kotlin,Flutter.
+--Android app development - Java,Kotlin.
 --Web development --Html,css,javascript.
 --System development --Laravel, php.
 --Customer support.
