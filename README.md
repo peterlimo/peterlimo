@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Peter Kiprop
 - 👀 I’m a Software developer, I am passionate in resolving the magic in tech and performing invention and innovation in the current tech world.
 - 📫 How to reach me kiproplimo8@gmail.com / 0741734820
-I am 22 years of age,  Currently working at HR DIGITAL CONSULTING LTD as a software developer.
+I am 22 years of age.
 MY SPECIALIZATION
 --Android app development - Java,Kotlin.
 --Web development --Html,css,javascript.
